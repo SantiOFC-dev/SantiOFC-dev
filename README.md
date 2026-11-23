@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Santiago+Delgado;Full+Stack+Engineer;AI+Automation+Developer;SaaS+Architect;Founder+of+Zona+Sur+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Santiago+Delgado;Full+Stack+Engineer;AI+Automation+Developer;SaaS+Architect;Founder+of+AuraFlow+Tech" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://zonasurtech.online">
-    <img src="https://img.shields.io/badge/Website-zonasurtech.online-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://auraflowtech.lat">
+    <img src="https://img.shields.io/badge/Website-auraflowtech.lat-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://github.com/Santyofc">
-    <img src="https://img.shields.io/badge/GitHub-Santyofc-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/SantiOFC-dev">
+    <img src="https://img.shields.io/badge/GitHub-SantiOFC--dev-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/santi-delgados/">
     <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Delgado-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,7 +31,7 @@
 <p align="center">
   Building SaaS platforms, AI automations, backend APIs and scalable cloud systems.
   <br/>
-  Founder of <strong>Zona Sur Tech</strong>.
+  Founder of <strong><a href="https://auraflowtech.lat">AuraFlow Tech</a></strong> (formerly <strong>Zona Sur Tech</strong>) & Creator of <strong><a href="https://pulsodefe.auraflowtech.lat">Pulso de Fe</a></strong>.
 </p>
 
 ---
