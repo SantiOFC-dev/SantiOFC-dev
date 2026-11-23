@@ -22,6 +22,9 @@
   <a href="https://www.youtube.com/@PulsodeFe-ofc">
     <img src="https://img.shields.io/badge/YouTube-@PulsodeFe--ofc-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="https://www.tiktok.com/@pulso.de.fe">
+    <img src="https://img.shields.io/badge/TikTok-@pulso.de.fe-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
   <a href="https://www.linkedin.com/in/santi-delgados/">
     <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Delgado-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
