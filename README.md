@@ -28,9 +28,7 @@
 
 ---
 
-## 🌐 Live Production Systems & Cloud Platforms
-
-AuraFlow Tech opera una infraestructura de microservicios y SaaS de alta disponibilidad en Costa Rica:
+## 🌐 Featured Projects & Platforms
 
 | Plataforma | Dominio En Vivo | Descripción & Stack |
 | :--- | :--- | :--- |
