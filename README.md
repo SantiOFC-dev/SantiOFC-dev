@@ -25,18 +25,38 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Architecture</h2>
+<h2 align="center">🛠️ Tech Stack & Engineering Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,fastapi,react,nextjs&perline=8" alt="Frontend & Backend" height="65" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,bash,php,nodejs&perline=8" alt="Languages & Core" height="65" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,html,css,linux,ubuntu,nginx,docker,cloudflare&perline=8" alt="Cloud & DevOps" height="65" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,html,css,figma&perline=8" alt="Frontend & UI" height="65" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,redis,mongodb,git,github,postman&perline=8" alt="Databases & Tools" height="65" />
+  <img src="https://skillicons.dev/icons?i=express,fastapi,django,flask,nestjs,graphql,prisma,postman&perline=8" alt="Backend & APIs" height="65" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,firebase,postgres,mysql,sqlite,redis&perline=8" alt="AI & Databases" height="65" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,nginx,docker,kubernetes,cloudflare,aws&perline=8" alt="Cloud & Infrastructure" height="65" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,pnpm,mongodb,kafka&perline=8" alt="Tools & Messaging" height="65" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4o-00F7FF?style=for-the-badge&logo=openai&logoColor=black" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google-Gemini_2.0-1D4ED8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-V3_&_R1-4E7CF6?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude_3.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/WhatsApp-Baileys_Multi--Agent-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys" />
 </p>
 
 ---
