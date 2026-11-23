@@ -28,8 +28,8 @@
   <a href="https://www.linkedin.com/in/santi-delgados/">
     <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Delgado-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/santidelgados_">
-    <img src="https://img.shields.io/badge/X-@santidelgados_-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  <a href="https://x.com/santidelgadol">
+    <img src="https://img.shields.io/badge/X-@santidelgadol-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
