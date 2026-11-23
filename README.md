@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://auraflowtech.lat"><img src="https://img.shields.io/badge/AuraFlow_Tech-Cloud_Ecosystem-00F7FF?style=for-the-badge&logo=cloudflare&logoColor=black" alt="AuraFlow Tech" /></a>
   <a href="https://pulsodefe.auraflowtech.lat"><img src="https://img.shields.io/badge/Pulso_de_Fe-Ministerio_Digital-F59E0B?style=for-the-badge&logo=church&logoColor=white" alt="Pulso de Fe" /></a>
-  <a href="https://github.com/Santyofc"><img src="https://img.shields.io/badge/Migrated_From-@Santyofc-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Migrated From Santyofc" /></a>
   <img src="https://img.shields.io/badge/Costa_Rica-🇨🇷-22C55E?style=for-the-badge" alt="Costa Rica" />
 </p>
 
@@ -26,11 +25,6 @@
     <img src="https://img.shields.io/badge/Email-support@auraflowtech.lat-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-## ⚡ Notice / Perfil Oficial Actualizado
-> **Nota de Migración:** Todos los proyectos, repositorios y sistemas antes alojados bajo el alias **[@Santyofc](https://github.com/Santyofc)** han sido migrados a este perfil oficial **[@SantiOFC-dev](https://github.com/SantiOFC-dev)**, incluyendo las arquitecturas en vivo de **AuraFlow Tech** y **Pulso de Fe**.
 
 ---
 
