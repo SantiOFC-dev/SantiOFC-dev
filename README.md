@@ -40,50 +40,53 @@
 <p align="center">
   Building SaaS platforms, AI automations, backend APIs and scalable cloud systems.
   <br/>
-  Founder of <strong><a href="https://auraflowtech.lat">AuraFlow Tech</a></strong> (formerly <strong>Zona Sur Tech</strong>) & Creator of <strong><a href="https://pulsodefe.auraflowtech.lat">Pulso de Fe</a></strong>.
+  Founder of <strong><a href="https://auraflowtech.lat">AuraFlow Tech</a></strong> & Creator of <strong><a href="https://pulsodefe.auraflowtech.lat">Pulso de Fe</a></strong>.
 </p>
 
 ---
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Runtimes</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,java,php,rust,bash&perline=8" alt="Languages" height="50" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,bash,php,c,cpp,java,kotlin,swift,dart,html,css&perline=8" alt="Languages & Runtimes" height="48" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend & Mobile</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,vite,figma&perline=8" alt="Frontend" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,figma,redux,sass,bootstrap,flutter,threejs,electron&perline=8" alt="Frontend & Mobile" height="48" />
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend & Architecture</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql,prisma,nestjs&perline=8" alt="Backend" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,nestjs,graphql,prisma,spring,laravel,dotnet,postman&perline=8" alt="Backend & Architecture" height="48" />
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">Databases & Storage</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,sqlite&perline=7" alt="Databases" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase,firebase,cassandra,elasticsearch&perline=8" alt="Databases & Storage" height="48" />
 </p>
 
-<h3 align="center">Cloud / DevOps</h3>
+<h3 align="center">Cloud, DevOps & Linux</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,cloudflare,githubactions,linux,ubuntu&perline=8" alt="Cloud / DevOps" height="50" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,nginx,docker,kubernetes,cloudflare,aws,gcp,azure,githubactions,terraform&perline=8" alt="Cloud & DevOps" height="48" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Developer Tools & Messaging</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm,pnpm,vercel&perline=8" alt="Tools" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,pnpm,yarn,bun,kafka,rabbitmq&perline=8" alt="Tools & Messaging" height="48" />
 </p>
 
-<h3 align="center">AI & Automation</h3>
+<h3 align="center">AI, Machine Learning & Automation</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-1D4ED8?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/DeepSeek-4E7CF6?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Anthropic-1F2937?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/WhatsApp%20Baileys-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Baileys" />
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4o-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-2.0%20Flash-1D4ED8?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-V3%20%26%20R1-4E7CF6?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude%203.5-1F2937?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Meta%20Llama-3.3-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Llama" />
+  <img src="https://img.shields.io/badge/WhatsApp%20Baileys-Multi--Agent-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Baileys" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Make-5B21B6?style=flat-square" alt="Make" />
   <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
   <img src="https://img.shields.io/badge/REST-0F172A?style=flat-square" alt="REST" />
