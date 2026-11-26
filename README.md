@@ -3,6 +3,12 @@
 </h1>
 
 <p align="center">
+  <a href="https://ai.lounge.ai/r/@santiofc-dev">
+    <img src="https://img.shields.io/badge/AI%20Lounge-Member%20%236%2C519%20%7C%20Founder%20L2-FF5722?style=for-the-badge&logo=openai&logoColor=white" alt="AI Lounge Member #6,519" />
+  </a>
+  <a href="https://cal.com/santidelgados">
+    <img src="https://img.shields.io/badge/Cal.com-Book%20a%20Meeting-29A634?style=for-the-badge&logo=calendar&logoColor=white" alt="Book on Cal.com" />
+  </a>
   <img src="https://img.shields.io/badge/SaaS-Builder-00F7FF?style=for-the-badge&labelColor=0B1220" alt="SaaS Builder" />
   <img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=for-the-badge&labelColor=0B1220" alt="AI Automation" />
   <img src="https://img.shields.io/badge/Full_Stack-Engineer-2563EB?style=for-the-badge&labelColor=0B1220" alt="Full Stack Engineer" />
@@ -12,6 +18,12 @@
 <p align="center">
   <a href="https://auraflowtech.lat">
     <img src="https://img.shields.io/badge/Website-auraflowtech.lat-0F172A?style=flat-square&logo=googlechrome&logoColor=00F7FF" alt="Website" />
+  </a>
+  <a href="https://ai.lounge.ai/r/@santiofc-dev">
+    <img src="https://img.shields.io/badge/AI_Lounge-@santiofc--dev-FF5722?style=flat-square&logo=openai&logoColor=white" alt="AI Lounge" />
+  </a>
+  <a href="https://cal.com/santidelgados">
+    <img src="https://img.shields.io/badge/Cal.com-santidelgados-29A634?style=flat-square&logo=calendar&logoColor=white" alt="Cal.com" />
   </a>
   <a href="https://pulsodefe.auraflowtech.lat">
     <img src="https://img.shields.io/badge/Pulso_de_Fe-pulsodefe.lat-0F172A?style=flat-square&logo=church&logoColor=F59E0B" alt="Pulso de Fe" />
@@ -38,9 +50,13 @@
 <h2 align="center">About</h2>
 
 <p align="center">
-  Building SaaS platforms, AI automations, backend APIs and scalable cloud systems.
+  Building production SaaS platforms, AI automations, backend APIs and scalable cloud infrastructure.
   <br/>
-  Founder of <strong><a href="https://auraflowtech.lat">AuraFlow Tech</a></strong> & Creator of <strong><a href="https://pulsodefe.auraflowtech.lat">Pulso de Fe</a></strong>.
+  Founder of <strong><a href="https://auraflowtech.lat">AuraFlow Tech</a></strong> &bull; Member of <strong><a href="https://ai.lounge.ai/r/@santiofc-dev">AI Lounge</a></strong> (#6,519 &bull; Founder L2) &bull; Creator of <strong><a href="https://pulsodefe.auraflowtech.lat">Pulso de Fe</a></strong>.
+  <br/>
+  Specialized in Facturación Electrónica v4.4 (Hacienda Costa Rica), WhatsApp AI Multi-Agent Systems &amp; Cloud Networks.
+  <br/>
+  📍 <em>Pérez Zeledón, Costa Rica 🇨🇷</em>
 </p>
 
 ---
